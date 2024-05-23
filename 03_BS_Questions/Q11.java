@@ -41,6 +41,6 @@ public class Q11 {
       }
 
     }
-    return end;
+    return end; // it can be both start/ end
   }
 }
