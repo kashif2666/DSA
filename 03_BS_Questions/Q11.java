@@ -13,7 +13,7 @@ public class Q11 {
     int end = 0;
 
     for (int i = 0; i < nums.length; i++) {
-      start = Math.max(start, nums[i]);
+      start = Math.max(start, nums[i]); // in the end of this loop this will contain the max item from the array
       end += nums[i];
     }
     // binary search
