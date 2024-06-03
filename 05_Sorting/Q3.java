@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+// insertion Sort
 public class Q3 {
   public static void main(String[] args) {
     int arr[] = { 7, 1 };
