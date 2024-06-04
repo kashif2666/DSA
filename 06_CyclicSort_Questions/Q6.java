@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/first-missing-positive/description/
+// https://leetcode.com/problems/first-missing-positive/submissions/1276465603
 // Mising positive 
 // Amazon
 public class Q6 {
