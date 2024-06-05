@@ -4,9 +4,19 @@
 // 1 2 3
 // 1 2 3 4
 
+
+// Question 5
+// * 
+// * *
+// * * *
+// * * * *
+// * * *
+// * *
+// *
+
 public class Q2 {
 public static void main(String[] args) {
-  // pattern4(4);
+  pattern4(4);
   pattern5(5);
 } 
 static  void pattern4(int n){

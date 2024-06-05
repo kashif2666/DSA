@@ -24,9 +24,9 @@
 
 public class Q1 {
   public static void main(String[] args) {
-    // pattern1(4);
-    // pattern2(4);
-    // pattern3(4);
+    pattern1(4);
+    pattern2(4);
+    pattern3(4);
 
 
 
