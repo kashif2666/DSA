@@ -1,4 +1,4 @@
-
+// Quick sort
 import java.util.Arrays;
 
 public class Q6 {
