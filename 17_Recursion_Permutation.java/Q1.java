@@ -10,7 +10,7 @@ public class Q1 {
     // ArrayList ans=permutationsList("", "abc");
     // System.out.println(ans);
 
-    System.out.println(permutationsCount("", "abcde"));
+    System.out.println(permutationsCount("", "abc"));
   }
   static  void permutations(String p, String up){
     if (up.isEmpty()) {

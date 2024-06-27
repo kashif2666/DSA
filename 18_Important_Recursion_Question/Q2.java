@@ -12,7 +12,6 @@ public class Q2 {
 public static void main(String[] args) {
   dice("", 4);
   diceFace("", 4, 8);
-
   System.out.println(diceRet("", 4));
   System.out.println(diceFaceRet("", 4, 8));
 
