@@ -1,6 +1,9 @@
 // BackTracking question
 import java.util.Arrays;
 
+//1- Move all path in a maze
+//2- Move all path in a maze also count the steps
+
 
 public class Q1 {
   public static void main(String[] args) {
