@@ -6,6 +6,97 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "nested.Main",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "interfacesolution.Main",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "oops.abstractclass.Main",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "abstractclass.Main",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "SubClass",
+      "request": "launch",
+      "mainClass": "accessmodifier.SubClass",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "ObjectDemo",
+      "request": "launch",
+      "mainClass": "accessmodifier.ObjectDemo",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "accessmodifier.Main",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "SubClass",
+      "request": "launch",
+      "mainClass": "polymorphism.SubClass",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "Objectprint",
+      "request": "launch",
+      "mainClass": "polymorphism.Objectprint",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "polymorphism.Main",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "inheritance2.Main",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "inheritance.Main",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "Greeting",
+      "request": "launch",
+      "mainClass": "oppsintro.packages.b.Greeting",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"

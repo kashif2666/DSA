@@ -2,8 +2,8 @@
 public class Q3 {
   public static void main(String[] args) {
     int[] nums = { 23, 45, 1, 2, 8, 19, -3, -11, 16, -26 };
-    int target = 225;
-    int ans = linearSearch(nums, target, 1, 4);
+    int target = 19;
+    int ans = linearSearch(nums, target, 1, 7);
     System.err.println(ans);
 
   }

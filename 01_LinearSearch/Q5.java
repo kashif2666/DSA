@@ -9,7 +9,7 @@ public class Q5 {
         { 78, 99, 34, 56 },
         { 18, 12 }
     };
-    int target = 265;
+    int target = 99;
     int ans[] = search(arr, target);
     System.out.println(Arrays.toString(ans));
     System.out.println(max(arr));
