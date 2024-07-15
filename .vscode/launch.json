@@ -8,6 +8,55 @@
       "type": "java",
       "name": "Main",
       "request": "launch",
+      "mainClass": "clonning1.Main",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "clonning.Main",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "exceptionHandling.Demo",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "exceptionHandling.Main",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "LambdaFunction",
+      "request": "launch",
+      "mainClass": "generics.LambdaFunction",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "generics.comparing.Main",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "CustomArrayList",
+      "request": "launch",
+      "mainClass": "generics.CustomArrayList",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
       "mainClass": "nested.Main",
       "projectName": "DSAByKunal_2481059c"
     },
