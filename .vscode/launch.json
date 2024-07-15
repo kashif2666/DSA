@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Basic",
+      "request": "launch",
+      "mainClass": "enums.Basic",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "collections.Main",
+      "projectName": "DSAByKunal_2481059c"
+    },
+    {
+      "type": "java",
       "name": "Main",
       "request": "launch",
       "mainClass": "clonning1.Main",
