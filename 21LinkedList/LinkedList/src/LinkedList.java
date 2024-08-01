@@ -56,6 +56,7 @@ public class LinkedList {
         temp.next = node;
         size += 1;
     }
+    
 
     public int deleteFirst() {
         if (head==null && tail==null) {

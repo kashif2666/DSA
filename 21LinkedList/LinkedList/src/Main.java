@@ -6,10 +6,13 @@ public static void main(String[] args) {
   // list.insertFirst(13);
   // list.insertFirst(25);
   // list.insertLast(80);
+
+  // // list.insertRecursion(20, 2);
   // list.insertLast(36);
   // list.insert(100, 3);
   // list.insert(10, 3);
   // list.insert(1001, 3);
+
 
   // list.display();
   // System.out.println(list.deleteFirst());

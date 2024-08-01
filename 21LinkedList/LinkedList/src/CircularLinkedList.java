@@ -24,6 +24,7 @@ public void insert(int val){
 public void delete(int val){
   Node node=head;
   if (node==null) {
+    System.out.println("No element in the list to delete");
     return;
   }
 
