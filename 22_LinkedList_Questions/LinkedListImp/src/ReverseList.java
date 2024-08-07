@@ -2,6 +2,10 @@
 
 // https://leetcode.com/problems/reverse-linked-list-ii/description/
 // Google, Microsoft, Facebook
+
+
+// https://leetcode.com/problems/palindrome-linked-list/description/
+// Google, Amazon, Microsoft, Linkdin, Apple,facebook
 public class ReverseList {
 
     private static Node head;
@@ -140,6 +144,21 @@ public class ReverseList {
         newEnd.next = current;
         return head;
     }
+
+    // https://leetcode.com/problems/palindrome-linked-list/description/
+
+    // Function to find the middle of the list using slow and fast pointers
+private ListNode getMiddle(ListNode head) {
+    if (head == null) return head;
+    ListNode slow = head, fast = head;
+    while (fast.next != null && fast.next.next != null) {
+        slow = slow.next;
+        fast = fast.next.next;
+    }
+    return slow;
+}
+
+
 
     private class Node {
 
