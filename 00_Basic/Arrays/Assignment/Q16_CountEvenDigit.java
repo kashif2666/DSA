@@ -1,0 +1,29 @@
+// https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
+
+public class Q16_CountEvenDigit {
+  public int findNumbers(int[] nums) {
+    int count = 0;
+ for (int num : nums) {
+   if (even(num)) {
+     count++;
+   }
+ }
+ return count; 
+ }
+
+ boolean even(int num) {
+ int numberOfDigits = digits(num);
+ if (numberOfDigits % 2 == 0) {
+   return true;
+ }
+ return false;
+}
+int digits(int num) {
+  if (num < 0) {
+   num = num * -1;
+ }
+ return (int) (Math.log10(num) + 1);
+
+
+}
+}

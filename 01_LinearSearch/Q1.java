@@ -4,7 +4,7 @@ public class Q1 {
     int[] nums = { 23, 45, 1, 2, 8, 19, -3, -11, 16, -26 };
     int target = -11;
     int ans = linearSearch(nums, target);
-    System.err.println(ans);
+    System.out.println(ans);
 
   }
 
